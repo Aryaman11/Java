@@ -18,7 +18,7 @@ class HelloWorld {
         int arr[] = {0,9,8,7,6,5,4,3,2,1};
         int result[] = insertionSort(arr);
         for(int i =0;i<arr.length;i++){
-            System.out.println(arr[i]);
+            System.out.println(result[i]);
         }
     }
 }
