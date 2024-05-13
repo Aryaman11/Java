@@ -1,0 +1,2 @@
+Find the index in array for given .
+squar root of given number.
