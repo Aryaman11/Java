@@ -2,7 +2,6 @@
 // Use this editor to write, compile and run your Java code online
 
 class HelloWorld {
-
     public static int[] selectionSort(int[] arr){
         int len = arr.length;
         for(int i =0 ; i<len-1; i++){
