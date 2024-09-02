@@ -2,7 +2,7 @@
 // Use this editor to write, compile and run your Java code online
 import java.util.*;
 
-class HelloWorld {
+class Anagrambrut {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String X = scan.nextLine();

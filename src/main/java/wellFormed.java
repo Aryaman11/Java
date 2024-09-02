@@ -1,6 +1,6 @@
 import java.util.*;
 
-class HelloWorld {
+class WellFormed {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String test = scan.nextLine();
